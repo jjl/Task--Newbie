@@ -27,7 +27,7 @@ At the minute, not a lot, but here's what it will do:
 
 =item install the basic modules that a newbie is likely to want/need
 
-=cut
+=back
 
 =head1 AUTHOR
 
