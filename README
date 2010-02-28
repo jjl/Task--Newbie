@@ -1,0 +1,62 @@
+NAME
+    Task::Newbie - Make life easy for newbies
+
+VERSION
+    Version 0.001
+
+SYNOPSIS
+     wget -O- http://xrl.us/cpanm | perl - Task::Newbie
+
+WHAT THIS MODULE DOES
+    At the minute, not a lot, but here's what it will do:
+
+    configure more sane defaults for CPAN.pm and CPANPLUS.pm
+    install the basic modules that a newbie is likely to want/need
+
+AUTHOR
+    James Laver, "<cpan at jameslaver.com>"
+
+BUGS
+    Please report any bugs or feature requests to "bug-task-newbie at
+    rt.cpan.org", or through the web interface at
+    <http://rt.cpan.org/NoAuth/ReportBug.html?Queue=Task-Newbie>. I will be
+    notified, and then you'll automatically be notified of progress on your
+    bug as I make changes.
+
+SUPPORT
+    You can find documentation for this module with the perldoc command.
+
+        perldoc Task::Newbie
+
+    You can also look for information at:
+
+    *   RT: CPAN's request tracker
+
+        <http://rt.cpan.org/NoAuth/Bugs.html?Dist=Task-Newbie>
+
+    *   AnnoCPAN: Annotated CPAN documentation
+
+        <http://annocpan.org/dist/Task-Newbie>
+
+    *   CPAN Ratings
+
+        <http://cpanratings.perl.org/d/Task-Newbie>
+
+    *   Search CPAN
+
+        <http://search.cpan.org/dist/Task-Newbie/>
+
+ACKNOWLEDGEMENTS
+COPYRIGHT & LICENSE
+    Copyright 2010 James Laver, all rights reserved.
+
+    This program is free software; you can redistribute it and/or modify it
+    under the same terms as Perl itself.
+
+POD ERRORS
+    Hey! The above document had some coding errors, which are explained
+    below:
+
+    Around line 32:
+        You forgot a '=back' before '=head1'
+
