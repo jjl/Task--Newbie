@@ -15,7 +15,7 @@ Version 0.001
 
 =head1 SYNOPSIS
 
- wget -O- http://xrl.us/cpanm | perl - Task::Newbie
+ wget -O- http://xrl.us/cpanm | perl - http://github.com/jjl/Task--Newbie/tarball/master
 
 =head1 WHAT THIS MODULE DOES
 
